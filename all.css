@@ -1,0 +1,328 @@
+#img1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+    border-radius: 1000px;
+    border-collapse: collapse;   
+    margin-left: 100px;
+}
+#img2{
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+    border-radius: 100px;
+    border-collapse: collapse;   
+    margin-left: 100px;
+}
+
+#img3{
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+    border-radius: 1000px;
+    border-collapse: collapse;   
+    margin-left: 100px;
+}
+
+
+h2{
+    color: tomato;
+
+}
+p{
+    color: rgba(106, 209, 235, 0.815);
+}
+blockquote{
+    color: rgb(250, 250, 250);
+}
+
+h4{
+    text-align: center;
+    color:tomato;
+    background: cyan;
+    width: 85px;
+    margin: auto;
+
+}
+div{
+    padding: 10px;
+}
+.end{
+    color: rgb(103, 45, 168);
+    border: 2px solid rgb(165, 72, 72);
+ 
+   width: 206px;
+   margin: auto;
+   background: rgba(211, 176, 176, 0.575);
+   border-radius: 10px; 
+}
+legend{
+    color: blue;
+    background: darkgray;
+    border: 2px solid red;
+}
+
+#reset{
+    color: white;
+    background: black;
+}
+#reset:hover{
+    color: black;
+    background: white;
+    
+    
+}
+#submit{
+    color: rgb(63, 206, 35);
+    background: green;
+}
+#submit:hover{
+    color: rgb(53, 202, 202);
+    background: darkred;
+
+}
+#mail{
+    margin-left: 31px;
+    background: rgb(153, 194, 160);
+}
+#mail:hover{
+    background: rgb(35, 180, 59);
+}
+
+fieldset{
+    border-color: brown;
+    margin: auto;
+    width: 245px;
+    background: rgb(80, 136, 113);
+    border-radius: 25px;
+}
+#name{
+    margin-left: 22px;
+    
+    background: rgb(153, 194, 160);
+}
+#name:hover{
+    background: rgb(35, 180, 59);
+}
+#pass{
+    background: rgb(153, 194, 160);
+}
+#pass:hover{
+    background: rgb(35, 180, 59);
+}
+h1{
+    text-align: center;
+    color: bisque;
+    background: darkcyan;
+    margin: auto;
+    width: 300px;
+}
+
+body{
+    background-image: url(pic/kiron.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#pass1{
+    color: rgb(179, 223, 177);
+}
+#name1{
+    color: rgb(179, 223, 177);
+}
+#mail1{
+    color: rgb(179, 223, 177);
+}
+.fav1{
+    color: rgb(226, 217, 84);
+}
+h3{
+    color: rgb(12, 160, 25);
+}
+.fav2{
+    color: rgb(226, 217, 84);
+}
+.fav3{
+    color: rgb(226, 217, 84);
+}
+h4:hover{
+    color: aqua;
+    background:red;
+}
+
+.fav4{
+    color: rgb(226, 217, 84);
+}
+
+.audioandvideolink{
+    color: rgb(69, 196, 126);
+
+}
+.---{
+    color: rgb(142, 155, 231);
+    font-size: 5vw;
+}
+#audiohtml{
+    text-decoration: none;
+    color: beige;
+    background: blueviolet;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#audiohtml:hover{
+    color: rgb(170, 45, 76);
+    background: rgb(177, 207, 67) ;
+    border-radius: 5px;
+    text-decoration: underline;
+
+}
+#videohtml{
+    text-decoration: none;
+    color: beige;
+    background: blueviolet;
+}
+
+#videohtml:hover{
+    color: rgb(170, 45, 76);
+    background: rgb(177, 207, 67) ;
+   border-radius: 5px;
+   text-decoration: underline;
+
+}
+#div1{
+    width: 300px;
+    height: 250px;
+    background: green;
+    margin-left: 10px;
+}
+#div2{
+    height: 200px;
+    width: 200px;
+    background: red; border-radius: 160px;
+    margin-left: 38px;
+    margin-top: 15px;
+}
+#flag{
+    color: azure;
+    background-color: red;
+    margin-top: 95px;
+}
+p{
+    text-indent: 20px;
+}
+h2{
+    text-indent: 25px;
+}
+h3{
+    text-indent: 15px;
+    border
+}
+footer{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(177, 207, 67);
+    text-align: center;
+}
+
+#lorem{
+    color: black;
+}
+
+.fab{
+    font-size: 40px;
+}
+.footerhd{
+    color: rgb(65, 173, 192);
+    background: none;
+}
+h1{
+     
+    top: 0;
+}
+h1:hover{
+    background: radial-gradient(rgba(255, 0,0 ) 20px, green);
+    color: yellowgreen;
+}
+legend{
+    border-radius: 5px;
+}
+
+
+
+/* start navbar */
+
+
+
+
+header{
+    width: 100%;
+    background: rgb(85, 79, 79);
+    color: white;
+    display: flex;
+    
+    
+}
+
+img{
+    width: 50px;
+    margin:15px 0px 10px 20px;
+    border-radius: 50%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.navbar ul{
+    list-style: none;
+   
+
+}
+.navbar ul li{
+    background: #ae8cb3;
+    width:170px;
+    border: 1px solid #fff;
+    height: 50px;
+    text-align: center;
+    float: left;
+    color: white;
+    line-height: 50px;
+    border-radius: 5px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    color: aqua;
+    
+
+}
+.navbar ul li:hover{
+    background: rgb(98, 177, 131);
+    transition: all ease-in 0.3s;
+    
+}
+.navbar ul ul{
+    display: none;
+}
+.navbar ul li:hover > ul{
+    display: block;
+}
+
+#navbarimg{
+    width: 50px;
+    height: 50px;
+}
+    
+
+header{
+    position: sticky;
+    top: 0;
+}
+/* end navbar */
